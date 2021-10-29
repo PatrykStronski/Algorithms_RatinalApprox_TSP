@@ -1,0 +1,381 @@
+city1;city2;distance
+Moscow;Saint Petersburg;703.9845
+Moscow;Novosibirsk;3344.7955
+Moscow;Yekaterinburg;1784.3352
+Moscow;Nizhniy Novgorod;420.8343
+Moscow;Samara;1062.1381999999999
+Moscow;Omsk;2701.1392
+Moscow;Kazan;834.3915999999999
+Moscow;Rostov-na-Donu;1077.8503
+Moscow;Chelyabinsk;1881.5031000000001
+Moscow;Ufa;1475.1669
+Moscow;Volgograd;971.0105
+Moscow;Perm;1429.1118999999999
+Moscow;Krasnoyarsk;4119.3101
+Moscow;Saratov;908.1016
+Moscow;Voronezh;516.9171
+Moscow;Tol’yatti;1009.4697
+Moscow;Krasnodar;1348.2413999999999
+Moscow;Ulyanovsk;877.15
+Moscow;Izhevsk;1221.9695
+Saint Petersburg;Moscow;709.0246999999999
+Saint Petersburg;Novosibirsk;4052.4327999999996
+Saint Petersburg;Yekaterinburg;2289.2399
+Saint Petersburg;Nizhniy Novgorod;1127.9442
+Saint Petersburg;Samara;1769.7755
+Saint Petersburg;Omsk;3408.7765
+Saint Petersburg;Kazan;1541.5015
+Saint Petersburg;Rostov-na-Donu;1788.2422
+Saint Petersburg;Chelyabinsk;2589.1403999999998
+Saint Petersburg;Ufa;2069.9118
+Saint Petersburg;Volgograd;1681.4024
+Saint Petersburg;Perm;1934.0166000000002
+Saint Petersburg;Krasnoyarsk;4826.9474
+Saint Petersburg;Saratov;1618.4933999999998
+Saint Petersburg;Voronezh;1227.3089
+Saint Petersburg;Tol’yatti;1717.107
+Saint Petersburg;Krasnodar;2058.6333
+Saint Petersburg;Ulyanovsk;1584.7873
+Saint Petersburg;Izhevsk;1929.0793999999999
+Novosibirsk;Moscow;3340.6155
+Novosibirsk;Saint Petersburg;4047.9951
+Novosibirsk;Yekaterinburg;1590.2258
+Novosibirsk;Nizhniy Novgorod;2848.4744
+Novosibirsk;Samara;2335.4466
+Novosibirsk;Omsk;642.7453
+Novosibirsk;Kazan;2423.8752000000004
+Novosibirsk;Rostov-na-Donu;3681.5733
+Novosibirsk;Chelyabinsk;1459.5754
+Novosibirsk;Ufa;1890.1362
+Novosibirsk;Volgograd;3146.4374
+Novosibirsk;Perm;1953.15
+Novosibirsk;Krasnoyarsk;778.4804
+Novosibirsk;Saratov;2774.4424
+Novosibirsk;Voronezh;3227.111
+Novosibirsk;Tol’yatti;2385.972
+Novosibirsk;Krasnodar;3951.9645
+Novosibirsk;Ulyanovsk;2468.4089
+Novosibirsk;Izhevsk;2227.6137999999996
+Yekaterinburg;Moscow;1789.0471
+Yekaterinburg;Saint Petersburg;2291.2861000000003
+Yekaterinburg;Novosibirsk;1588.3283999999999
+Yekaterinburg;Nizhniy Novgorod;1434.1759
+Yekaterinburg;Samara;960.1206999999999
+Yekaterinburg;Omsk;946.5926999999999
+Yekaterinburg;Kazan;1021.0271
+Yekaterinburg;Rostov-na-Donu;2306.2475
+Yekaterinburg;Chelyabinsk;213.7297
+Yekaterinburg;Ufa;514.8103
+Yekaterinburg;Volgograd;1771.1116000000002
+Yekaterinburg;Perm;361.7019
+Yekaterinburg;Krasnoyarsk;2362.843
+Yekaterinburg;Saratov;1399.1165
+Yekaterinburg;Voronezh;1851.7851
+Yekaterinburg;Tol’yatti;1010.6460999999999
+Yekaterinburg;Krasnodar;2576.6386
+Yekaterinburg;Ulyanovsk;1093.083
+Yekaterinburg;Izhevsk;636.1656999999999
+Nizhniy Novgorod;Moscow;420.71540000000005
+Nizhniy Novgorod;Saint Petersburg;1116.3986
+Nizhniy Novgorod;Novosibirsk;2848.0274
+Nizhniy Novgorod;Yekaterinburg;1433.2158
+Nizhniy Novgorod;Samara;689.5736999999999
+Nizhniy Novgorod;Omsk;2204.371
+Nizhniy Novgorod;Kazan;409.167
+Nizhniy Novgorod;Rostov-na-Donu;1242.806
+Nizhniy Novgorod;Chelyabinsk;1384.735
+Nizhniy Novgorod;Ufa;937.5773
+Nizhniy Novgorod;Volgograd;1042.2911
+Nizhniy Novgorod;Perm;1077.9926
+Nizhniy Novgorod;Krasnoyarsk;3622.542
+Nizhniy Novgorod;Saratov;630.7144000000001
+Nizhniy Novgorod;Voronezh;739.6005
+Nizhniy Novgorod;Tol’yatti;639.3775
+Nizhniy Novgorod;Krasnodar;1513.1972
+Nizhniy Novgorod;Ulyanovsk;445.6798
+Nizhniy Novgorod;Izhevsk;796.7449
+Samara;Moscow;1057.0758999999998
+Samara;Saint Petersburg;1764.4555
+Samara;Novosibirsk;2333.6031000000003
+Samara;Yekaterinburg;960.4599000000001
+Samara;Nizhniy Novgorod;690.2076999999999
+Samara;Omsk;1689.9468
+Samara;Kazan;357.1866
+Samara;Rostov-na-Donu;1282.0717
+Samara;Chelyabinsk;870.3107
+Samara;Ufa;463.9745
+Samara;Volgograd;808.3124
+Samara;Perm;846.8566
+Samara;Krasnoyarsk;3108.1177000000002
+Samara;Saratov;418.8339
+Samara;Voronezh;943.5713000000001
+Samara;Tol’yatti;102.4324
+Samara;Krasnodar;1552.4629
+Samara;Ulyanovsk;254.9667
+Samara;Izhevsk;565.6089000000001
+Omsk;Moscow;2695.4455
+Omsk;Saint Petersburg;3402.8251
+Omsk;Novosibirsk;643.1858000000001
+Omsk;Yekaterinburg;947.8555
+Omsk;Nizhniy Novgorod;2203.3044
+Omsk;Samara;1690.2766000000001
+Omsk;Kazan;1778.7051999999999
+Omsk;Rostov-na-Donu;3036.4033
+Omsk;Chelyabinsk;814.4054
+Omsk;Ufa;1244.9661
+Omsk;Volgograd;2501.2673999999997
+Omsk;Perm;1310.7797
+Omsk;Krasnoyarsk;1417.7004
+Omsk;Saratov;2129.2724
+Omsk;Voronezh;2581.9409
+Omsk;Tol’yatti;1740.802
+Omsk;Krasnodar;3306.7943999999998
+Omsk;Ulyanovsk;1823.2388
+Omsk;Izhevsk;1585.2436
+Kazan;Moscow;834.2525
+Kazan;Saint Petersburg;1529.9356
+Kazan;Novosibirsk;2422.7391000000002
+Kazan;Yekaterinburg;1017.3573
+Kazan;Nizhniy Novgorod;407.8691
+Kazan;Samara;355.8564
+Kazan;Omsk;1779.0828000000001
+Kazan;Rostov-na-Donu;1509.717
+Kazan;Chelyabinsk;959.4468
+Kazan;Ufa;521.7188
+Kazan;Volgograd;1049.1154
+Kazan;Perm;662.1341
+Kazan;Krasnoyarsk;3197.2538
+Kazan;Saratov;677.1204
+Kazan;Voronezh;1058.5533
+Kazan;Tol’yatti;338.9718
+Kazan;Krasnodar;1780.1082
+Kazan;Ulyanovsk;225.75910000000002
+Kazan;Izhevsk;380.8863
+Rostov-na-Donu;Moscow;1077.3308
+Rostov-na-Donu;Saint Petersburg;1787.4598
+Rostov-na-Donu;Novosibirsk;3663.1547
+Rostov-na-Donu;Yekaterinburg;2290.0115
+Rostov-na-Donu;Nizhniy Novgorod;1245.1391
+Rostov-na-Donu;Samara;1283.7772
+Rostov-na-Donu;Omsk;3019.4982999999997
+Rostov-na-Donu;Kazan;1494.9108
+Rostov-na-Donu;Chelyabinsk;2199.8623
+Rostov-na-Donu;Ufa;1793.5261
+Rostov-na-Donu;Volgograd;470.25509999999997
+Rostov-na-Donu;Perm;2157.1814
+Rostov-na-Donu;Krasnoyarsk;4437.6693
+Rostov-na-Donu;Saratov;859.4008
+Rostov-na-Donu;Voronezh;566.943
+Rostov-na-Donu;Tol’yatti;1327.8288
+Rostov-na-Donu;Krasnodar;272.56759999999997
+Rostov-na-Donu;Ulyanovsk;1282.6742
+Rostov-na-Donu;Izhevsk;1875.9336
+Chelyabinsk;Moscow;1869.7997
+Chelyabinsk;Saint Petersburg;2577.1793
+Chelyabinsk;Novosibirsk;1461.138
+Chelyabinsk;Yekaterinburg;212.5586
+Chelyabinsk;Nizhniy Novgorod;1377.6586000000002
+Chelyabinsk;Samara;864.6308
+Chelyabinsk;Omsk;817.4816999999999
+Chelyabinsk;Kazan;953.0593
+Chelyabinsk;Rostov-na-Donu;2210.7575
+Chelyabinsk;Ufa;419.3203
+Chelyabinsk;Volgograd;1675.6216000000002
+Chelyabinsk;Perm;572.8501
+Chelyabinsk;Krasnoyarsk;2235.6526
+Chelyabinsk;Saratov;1303.6265
+Chelyabinsk;Voronezh;1756.2951
+Chelyabinsk;Tol’yatti;915.1560999999999
+Chelyabinsk;Krasnodar;2481.1486
+Chelyabinsk;Ulyanovsk;997.593
+Chelyabinsk;Izhevsk;768.2955999999999
+Ufa;Moscow;1468.0355
+Ufa;Saint Petersburg;2175.4151
+Ufa;Novosibirsk;1888.9743999999998
+Ufa;Yekaterinburg;515.8312999999999
+Ufa;Nizhniy Novgorod;936.8521
+Ufa;Samara;462.86659999999995
+Ufa;Omsk;1245.3181000000002
+Ufa;Kazan;523.7033
+Ufa;Rostov-na-Donu;1808.9933
+Ufa;Chelyabinsk;425.682
+Ufa;Volgograd;1273.8573999999999
+Ufa;Perm;463.43170000000003
+Ufa;Krasnoyarsk;2663.4891000000002
+Ufa;Saratov;901.8624
+Ufa;Voronezh;1354.531
+Ufa;Tol’yatti;513.392
+Ufa;Krasnodar;2079.3845
+Ufa;Ulyanovsk;595.8289
+Ufa;Izhevsk;338.2353
+Volgograd;Moscow;971.2845
+Volgograd;Saint Petersburg;1681.4136
+Volgograd;Novosibirsk;3143.6398
+Volgograd;Yekaterinburg;1770.4967
+Volgograd;Nizhniy Novgorod;1045.2749000000001
+Volgograd;Samara;809.9997
+Volgograd;Omsk;2499.9835
+Volgograd;Kazan;1049.4147
+Volgograd;Rostov-na-Donu;469.3652
+Volgograd;Chelyabinsk;1680.3475
+Volgograd;Ufa;1274.0112
+Volgograd;Perm;1637.6666
+Volgograd;Krasnoyarsk;3918.1545
+Volgograd;Saratov;373.20640000000003
+Volgograd;Voronezh;589.7333000000001
+Volgograd;Tol’yatti;808.314
+Volgograd;Krasnodar;708.816
+Volgograd;Ulyanovsk;830.0137
+Volgograd;Izhevsk;1356.4188000000001
+Perm;Moscow;1430.9881
+Perm;Saint Petersburg;1933.2272
+Perm;Novosibirsk;1952.3348
+Perm;Yekaterinburg;363.0565
+Perm;Nizhniy Novgorod;1076.1169
+Perm;Samara;846.1922
+Perm;Omsk;1310.5991000000001
+Perm;Kazan;662.9680999999999
+Perm;Rostov-na-Donu;2192.3188999999998
+Perm;Chelyabinsk;567.6556999999999
+Perm;Ufa;464.27909999999997
+Perm;Volgograd;1657.183
+Perm;Krasnoyarsk;2726.8495
+Perm;Saratov;1285.1879
+Perm;Voronezh;1737.8565
+Perm;Tol’yatti;866.5607
+Perm;Krasnodar;2462.71
+Perm;Ulyanovsk;893.8033
+Perm;Izhevsk;278.10679999999996
+Krasnoyarsk;Moscow;4115.1571
+Krasnoyarsk;Saint Petersburg;4822.536700000001
+Krasnoyarsk;Novosibirsk;779.1519000000001
+Krasnoyarsk;Yekaterinburg;2364.7673
+Krasnoyarsk;Nizhniy Novgorod;3623.016
+Krasnoyarsk;Samara;3109.9882000000002
+Krasnoyarsk;Omsk;1417.2868999999998
+Krasnoyarsk;Kazan;3198.4168
+Krasnoyarsk;Rostov-na-Donu;4456.1149000000005
+Krasnoyarsk;Chelyabinsk;2234.117
+Krasnoyarsk;Ufa;2664.6777
+Krasnoyarsk;Volgograd;3920.979
+Krasnoyarsk;Perm;2727.6915
+Krasnoyarsk;Saratov;3548.984
+Krasnoyarsk;Voronezh;4001.6525
+Krasnoyarsk;Tol’yatti;3160.5136
+Krasnoyarsk;Krasnodar;4726.506
+Krasnoyarsk;Ulyanovsk;3242.9503999999997
+Krasnoyarsk;Izhevsk;3002.1554
+Saratov;Moscow;848.1336
+Saratov;Saint Petersburg;1555.5131000000001
+Saratov;Novosibirsk;2771.0089
+Saratov;Yekaterinburg;1397.8658
+Saratov;Nizhniy Novgorod;631.1224
+Saratov;Samara;416.775
+Saratov;Omsk;2127.3526
+Saratov;Kazan;676.7837
+Saratov;Rostov-na-Donu;858.6819
+Saratov;Chelyabinsk;1307.7165
+Saratov;Ufa;901.3803
+Saratov;Volgograd;373.18359999999996
+Saratov;Perm;1265.0356000000002
+Saratov;Krasnoyarsk;3545.5235
+Saratov;Voronezh;525.6890999999999
+Saratov;Tol’yatti;435.68309999999997
+Saratov;Krasnodar;1129.0731
+Saratov;Ulyanovsk;457.3828
+Saratov;Izhevsk;983.7879
+Voronezh;Moscow;516.0473
+Voronezh;Saint Petersburg;1226.1763999999998
+Voronezh;Novosibirsk;3209.2221
+Voronezh;Yekaterinburg;1836.0789
+Voronezh;Nizhniy Novgorod;741.8721999999999
+Voronezh;Samara;926.5648
+Voronezh;Omsk;2565.5657
+Voronezh;Kazan;1057.8778
+Voronezh;Rostov-na-Donu;565.8692
+Voronezh;Chelyabinsk;1745.9297
+Voronezh;Ufa;1339.5934
+Voronezh;Volgograd;587.8206
+Voronezh;Perm;1703.2488
+Voronezh;Krasnoyarsk;3983.7367000000004
+Voronezh;Saratov;525.0783
+Voronezh;Tol’yatti;873.8961999999999
+Voronezh;Krasnodar;836.2604
+Voronezh;Ulyanovsk;845.6411999999999
+Voronezh;Izhevsk;1422.001
+Tol’yatti;Moscow;1001.4374
+Tol’yatti;Saint Petersburg;1708.817
+Tol’yatti;Novosibirsk;2383.5099
+Tol’yatti;Yekaterinburg;1010.3666999999999
+Tol’yatti;Nizhniy Novgorod;639.3895
+Tol’yatti;Samara;100.85260000000001
+Tol’yatti;Omsk;1739.8536000000001
+Tol’yatti;Kazan;339.68
+Tol’yatti;Rostov-na-Donu;1342.3952
+Tol’yatti;Chelyabinsk;920.2175
+Tol’yatti;Ufa;513.8813
+Tol’yatti;Volgograd;807.2593
+Tol’yatti;Perm;866.1709000000001
+Tol’yatti;Krasnoyarsk;3158.0245
+Tol’yatti;Saratov;435.2643
+Tol’yatti;Voronezh;887.9328
+Tol’yatti;Krasnodar;1612.7863
+Tol’yatti;Ulyanovsk;204.14860000000002
+Tol’yatti;Izhevsk;584.9231
+Krasnodar;Moscow;1347.505
+Krasnodar;Saint Petersburg;2057.6341
+Krasnodar;Novosibirsk;3933.3289
+Krasnodar;Yekaterinburg;2560.1857999999997
+Krasnodar;Nizhniy Novgorod;1515.3134
+Krasnodar;Samara;1553.9515
+Krasnodar;Omsk;3289.6726
+Krasnodar;Kazan;1765.085
+Krasnodar;Rostov-na-Donu;274.2068
+Krasnodar;Chelyabinsk;2470.0365
+Krasnodar;Ufa;2063.7003
+Krasnodar;Volgograd;711.1498
+Krasnodar;Perm;2427.3556
+Krasnodar;Krasnoyarsk;4707.8435
+Krasnodar;Saratov;1129.5751
+Krasnodar;Voronezh;837.1171999999999
+Krasnodar;Tol’yatti;1598.0031000000001
+Krasnodar;Ulyanovsk;1552.8485
+Krasnodar;Izhevsk;2146.1079
+Ulyanovsk;Moscow;869.4993000000001
+Ulyanovsk;Saint Petersburg;1576.8789
+Ulyanovsk;Novosibirsk;2466.4605
+Ulyanovsk;Yekaterinburg;1093.3173000000002
+Ulyanovsk;Nizhniy Novgorod;445.86409999999995
+Ulyanovsk;Samara;254.517
+Ulyanovsk;Omsk;1822.8042
+Ulyanovsk;Kazan;225.4634
+Ulyanovsk;Rostov-na-Donu;1297.0748999999998
+Ulyanovsk;Chelyabinsk;1003.1681
+Ulyanovsk;Ufa;596.8319
+Ulyanovsk;Volgograd;834.0205
+Ulyanovsk;Perm;894.0819
+Ulyanovsk;Krasnoyarsk;3240.9751
+Ulyanovsk;Saratov;462.0255
+Ulyanovsk;Voronezh;845.9111
+Ulyanovsk;Tol’yatti;204.3208
+Ulyanovsk;Krasnodar;1567.466
+Ulyanovsk;Izhevsk;612.8342
+Izhevsk;Moscow;1221.4898
+Izhevsk;Saint Petersburg;1917.173
+Izhevsk;Novosibirsk;2223.0222000000003
+Izhevsk;Yekaterinburg;633.7438000000001
+Izhevsk;Nizhniy Novgorod;795.1064
+Izhevsk;Samara;565.1816
+Izhevsk;Omsk;1581.2864
+Izhevsk;Kazan;381.95759999999996
+Izhevsk;Rostov-na-Donu;1911.3083000000001
+Izhevsk;Chelyabinsk;773.8641
+Izhevsk;Ufa;337.9497
+Izhevsk;Volgograd;1376.1724
+Izhevsk;Perm;278.5206
+Izhevsk;Krasnoyarsk;2997.5368
+Izhevsk;Saratov;1004.1774
+Izhevsk;Voronezh;1456.8458999999998
+Izhevsk;Tol’yatti;585.5500999999999
+Izhevsk;Krasnodar;2181.6995
+Izhevsk;Ulyanovsk;612.7928
