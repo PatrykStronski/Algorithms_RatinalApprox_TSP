@@ -35,9 +35,9 @@ def accept_new(cost_change: float, temperature: float) -> bool:
     if cost_change > 0:
         return True
 
-    prob_remain = math.exp(cost_change/temperature)
+    prob_new = math.exp(cost_change/temperature)
     ran = random.random()
-    return prob_remain >= ran
+    return prob_new >= ran
 
 
 def anneal(cities: pd.DataFrame, distances: pd.DataFrame, initial_guess: [int]) -> (float, [int], int, int):
