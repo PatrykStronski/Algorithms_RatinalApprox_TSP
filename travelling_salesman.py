@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from simulated_annealing import anneal, calculate_whole_way
 
-INITIAL_STEP = [x for x in range(0,20)]
+INITIAL_STEP = [x for x in range(0,20)] + [0]
 cities = pd.read_csv('./cities.csv', sep=';')
 distances = pd.read_csv('./distances.csv', sep=';')
 
